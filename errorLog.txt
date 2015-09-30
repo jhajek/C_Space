@@ -1,0 +1,68 @@
+The time is: Tue May 13 19:23:27 2008
+ Hypotenoose: 3.60555
+The time is: Tue May 13 19:23:31 2008
+ Hypotenoose: 5
+The time is: Tue May 13 19:25:59 2008
+ Hypotenoose: 4.24264
+The time is: Tue May 13 19:28:26 2008
+ Hypotenoose: 3.60555
+The time is: Tue May 13 19:35:24 2008
+ Hypotenoose: 3
+The time is: Tue May 13 19:35:24 2008
+ Hypotenoose: 1
+The time is: Tue May 13 19:35:24 2008
+ Hypotenoose: 30.0167
+The time is: Tue May 13 19:35:24 2008
+ Hypotenoose: 18.0278
+The time is: Tue May 13 19:35:24 2008
+ Hypotenoose: 10
+The time is: Tue May 13 19:35:24 2008
+ Hypotenoose: 10
+The time is: Tue May 13 19:35:24 2008
+ Hypotenoose: 1
+The time is: Tue May 13 19:35:24 2008
+ Hypotenoose: 46.0977
+The time is: Tue May 13 19:54:03 2008
+ Hypotenoose: 4.24264
+The time is: Tue May 13 19:54:03 2008
+ Hypotenoose: 65.192
+The time is: Tue May 13 19:54:03 2008
+ Hypotenoose: 60.208
+The time is: Tue May 13 19:54:03 2008
+ Hypotenoose: 0
+The time is: Tue May 13 19:54:03 2008
+ Hypotenoose: 7.07107
+The time is: Tue May 13 19:54:03 2008
+ Hypotenoose: 5
+The time is: Tue May 13 19:54:03 2008
+ Hypotenoose: 5
+The time is: Tue May 13 19:54:03 2008
+ Hypotenoose: 6.7082
+The time is: Tue May 13 19:54:03 2008
+ Hypotenoose: 1
+The time is: Sun May 25 21:20:22 2008
+ Hypotenoose: 2.23607
+The time is: Sun May 25 23:15:48 2008
+ Hypotenoose: 23.0217
+The time is: Sun May 25 23:15:48 2008
+ Hypotenoose: 1
+The time is: Sun May 25 23:19:59 2008
+ Hypotenoose: 23.1948
+The time is: Sun May 25 23:39:31 2008
+ Hypotenoose: 25.0799
+The time is: Sun May 25 23:39:31 2008
+ Hypotenoose: 1
+The time is: Sun May 25 23:39:31 2008
+ Hypotenoose: 1
+The time is: Sun May 25 23:39:31 2008
+ Hypotenoose: 1
+The time is: Sun May 25 23:41:15 2008
+ Hypotenoose: 24.0416
+The time is: Sun May 25 23:41:15 2008
+ Hypotenoose: 1
+The time is: Sun May 25 23:42:01 2008
+ Hypotenoose: 23.0868
+The time is: Sun May 25 23:43:04 2008
+ Hypotenoose: 23.1948
+The time is: Sun May 25 23:43:04 2008
+ Hypotenoose: 1

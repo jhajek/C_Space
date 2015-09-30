@@ -1,0 +1,78 @@
+The time is: Tue May 13 19:28:26 2008
+ asciiPos: 15,15
+The time is: Tue May 13 19:28:26 2008
+ asciiPos: 8
+The time is: Tue May 13 19:35:24 2008
+ asciiPos: 10,10
+The time is: Tue May 13 19:35:24 2008
+ asciiPos: 10,11
+The time is: Tue May 13 19:35:24 2008
+ asciiPos: 10,25
+The time is: Tue May 13 19:35:24 2008
+ asciiPos: 40,10
+The time is: Tue May 13 19:35:24 2008
+ asciiPos: 58,11
+The time is: Tue May 13 19:35:24 2008
+ asciiPos: 48,11
+The time is: Tue May 13 19:35:24 2008
+ asciiPos: 59,11
+The time is: Tue May 13 19:35:24 2008
+ asciiPos: 59,12
+The time is: Tue May 13 19:35:24 2008
+ asciiPos: 13,9
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 85,5
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 10,10
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 75,5
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 15,10
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 15,20
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 15,10
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 15,20
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 20,15
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 20,10
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 20,15
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 23,9
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 24,9
+The time is: Tue May 13 19:54:03 2008
+ asciiPos: 8
+The time is: Sun May 25 21:20:22 2008
+ asciiPos: 12,12
+The time is: Sun May 25 21:20:22 2008
+ asciiPos: 8
+The time is: Sun May 25 23:15:48 2008
+ asciiPos: 36,4
+The time is: Sun May 25 23:15:48 2008
+ asciiPos: 36,5
+The time is: Sun May 25 23:19:59 2008
+ asciiPos: 36,10
+The time is: Sun May 25 23:39:31 2008
+ asciiPos: 36,09
+The time is: Sun May 25 23:39:31 2008
+ asciiPos: 35,09
+The time is: Sun May 25 23:39:31 2008
+ asciiPos: 35,08
+The time is: Sun May 25 23:39:31 2008
+ asciiPos: 36,08
+The time is: Sun May 25 23:41:15 2008
+ asciiPos: 36,14
+The time is: Sun May 25 23:41:15 2008
+ asciiPos: 36,13
+The time is: Sun May 25 23:41:15 2008
+ asciiPos: 8
+The time is: Sun May 25 23:42:01 2008
+ asciiPos: 36,10
+The time is: Sun May 25 23:43:04 2008
+ asciiPos: 36,13
+The time is: Sun May 25 23:43:04 2008
+ asciiPos: 36,12
